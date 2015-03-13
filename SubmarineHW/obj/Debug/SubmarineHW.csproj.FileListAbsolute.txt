@@ -1,0 +1,6 @@
+S:\Step\Homeworks\C#\Homework#7(14.03.2015)\SubmarineHW\SubmarineHW\bin\Debug\SubmarineHW.exe.config
+S:\Step\Homeworks\C#\Homework#7(14.03.2015)\SubmarineHW\SubmarineHW\bin\Debug\SubmarineHW.exe
+S:\Step\Homeworks\C#\Homework#7(14.03.2015)\SubmarineHW\SubmarineHW\bin\Debug\SubmarineHW.pdb
+S:\Step\Homeworks\C#\Homework#7(14.03.2015)\SubmarineHW\SubmarineHW\obj\Debug\SubmarineHW.csprojResolveAssemblyReference.cache
+S:\Step\Homeworks\C#\Homework#7(14.03.2015)\SubmarineHW\SubmarineHW\obj\Debug\SubmarineHW.exe
+S:\Step\Homeworks\C#\Homework#7(14.03.2015)\SubmarineHW\SubmarineHW\obj\Debug\SubmarineHW.pdb
